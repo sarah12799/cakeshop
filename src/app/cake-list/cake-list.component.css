@@ -1,0 +1,47 @@
+.cake-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+  text-align: left;
+  background-color: #f9f9f9;
+}
+
+.cake-table caption {
+  font-size: 40px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: #5a5a5a;
+}
+
+.cake-table th,
+.cake-table td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+.cake-table th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+}
+.cake-image {
+  width: 200px;
+  height: auto;
+}
+
+.details-link {
+  text-decoration: none;
+  color: #3498db;
+}
+
+.details-link:hover {
+  text-decoration: underline;
+}
+#caption {
+  float: right;
+  width: 70%;
+  margin-bottom: 20px;
+}
